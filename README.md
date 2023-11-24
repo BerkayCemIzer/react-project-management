@@ -1,5 +1,7 @@
 # react-project-management
 
+Made with Tailwind CSS
+
 ## Live at: https://cem-project-management-app.netlify.app/
 
 ## This is an app made at course on Udemy: React - The Complete Guide 2023 (incl. React Router & Redux) (https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
